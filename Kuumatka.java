@@ -23,7 +23,7 @@ public class Kuumatka {
         /*tässä verrataan kahta eri alkunopeus-aika-askel -yhdistelmää; metodi kysyy arvot
         vertailu.vertaa();
         */ 
-        vertailu.vertaa();
+        
         
         /*Tässä etsitään pienin mahdollinen nopeus; tarkkuus muokattavissa metodissa*
         System.out.println(vertailu.minNopeus(0.01,0.001));
